@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "30101487917",
+    "project_id": "naangarmapps",
+    "storage_bucket": "naangarmapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30101487917:android:ecc89bca8311b27d6a93a4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.naangarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MSJXKA5s-3dGrxEn7eYq1Vkqv88EvUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30101487917:android:46e3d7836e748a136a93a4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.naangarm_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MSJXKA5s-3dGrxEn7eYq1Vkqv88EvUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30101487917:android:ad9ca037f8a3f6476a93a4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.naangarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MSJXKA5s-3dGrxEn7eYq1Vkqv88EvUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
